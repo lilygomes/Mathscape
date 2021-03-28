@@ -27,14 +27,8 @@ The unit circle is a circle with a radius of 1 that can be used to easily unders
 ### Reciprocal Identities
 Reciprocal Identities tell us the reciprocals of each trig function. They define a trig function in terms of another trig function.
 
-$$ \sin{\theta}=\frac{1}{\csc{\theta}} $$
+$$ \sin{\theta}=\frac{1}{\csc{\theta}} $$|$$ \cos{\theta}=\frac{1}{\sec{\theta}} $$|$$ \tan{\theta}=\frac{1}{\cot{\theta}} $$
 
-$$ \cos{\theta}=\frac{1}{\sec{\theta}} $$
-
-$$ \tan{\theta}=\frac{1}{\cot{\theta}} $$
-
-$$ \csc{\theta}=\frac{1}{\sin{\theta}} $$
-
-$$ \sec{\theta}=\frac{1}{\cos{\theta}} $$|$$ \cos{\theta}=\frac{1}{\tan{\theta}} $$|
+$$ \csc{\theta}=\frac{1}{\sin{\theta}} $$|$$ \sec{\theta}=\frac{1}{\cos{\theta}} $$|$$ \cos{\theta}=\frac{1}{\tan{\theta}} $$|
 
 ### Quotient Identities

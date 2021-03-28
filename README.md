@@ -58,10 +58,6 @@ meta:
   .
   .
 
-google:
-  gtag:
-  adsense:
-
 mathjax: # this will prased to json, default: {}
 
 mermaid:

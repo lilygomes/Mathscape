@@ -1,11 +1,6 @@
 ---
-sort: 1
+sort: 0
 ---
 
-# Test Documentation
-
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
-
-{% include list.liquid all=true %}
+# Mathscape
+Mathscape is a simple, digital notebook that's easy to navigate. Know exactly what you need to know, when you need to know it. Highly text searchable ("Ctrl-F-able").

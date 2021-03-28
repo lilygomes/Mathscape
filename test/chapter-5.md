@@ -1,5 +1,5 @@
 ---
-sort: 12
+sort: 5
 ---
 
 ## Chapter Vocabulary

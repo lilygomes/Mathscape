@@ -35,8 +35,6 @@ $$ \tan{\theta}=\frac{1}{\cot{\theta}} $$
 
 $$ \csc{\theta}=\frac{1}{\sin{\theta}} $$
 
-$$ \sec{\theta}=\frac{1}{\cos{\theta}} $$
-
-$$ \cos{\theta}=\frac{1}{\tan{\theta}} $$|
+$$ \sec{\theta}=\frac{1}{\cos{\theta}} $$|$$ \cos{\theta}=\frac{1}{\tan{\theta}} $$|
 
 ### Quotient Identities

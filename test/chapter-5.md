@@ -53,5 +53,7 @@ $$ \tan{\theta}=\frac{\sin{\theta}}{\cos{\theta}} $$|$$ \cot{\theta}=\frac{\cos{
 The Pythagorean Identities consist of three identities that come from the Pythagorean Theorem, which help find where a point is on the Unit Circle.
 
 $$ \sin^{2}\theta+\cos^{2}\theta=1 $$
+
 $$ 1+\cot^{2}\theta=\csc^{2}\theta $$
+
 $$ \tan^{2}\theta+1=\sec^{2}\theta $$

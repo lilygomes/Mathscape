@@ -57,3 +57,11 @@ $$ \sin^{2}\theta+\cos^{2}\theta=1 $$
 $$ 1+\cot^{2}\theta=\csc^{2}\theta $$
 
 $$ \tan^{2}\theta+1=\sec^{2}\theta $$
+
+## Graphing trigonometric functions
+
+![Trig Graphs](http://img.sparknotes.com/figures/A/ad79275cb59e569b790cb945a4ffc553/triggraphs.gif)
+These graphs are all very different in their own right, but there are a fair few similarities in some of them. The co- variants of each function are proportional to their original function, which is why sine and cosine look similar, tangent and cotangent look similar, etc.
+
+## Also see:
+[Using the Pythagorean Trigonometric Identity](https://www.youtube.com/watch?v=soIt2TwV6Xk)

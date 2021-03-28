@@ -2,6 +2,19 @@
 sort: 12
 ---
 
+## Chapter Vocabulary
+- **Right angle:**  An angle 90° in measure.
+- **Theta (θ):**    A symbol used to denote the unknown measure of an angle. It is used mostly in displaying the trigonometric ratios of sine, cosine, tangent, secant, cosecant, and cotangent.
+- **Hypotenuse:**   In a right triangle, the hypotenuse is the longest side that is opposite from the right angle. Commonly represented by $$ c $$.
+- **Opposite:**     A term used to describe an angle facing a side or a side facing an angle. _e.g.: hypotenuse opposite the right angle_
+- **Adjacent:**     A term used to describe an angle or side right next to another.
+- **Sine:**         The trigonometric function that is equal to the ratio of the side opposite a given angle (in a right triangle) to the hypotenuse.
+- **Cosine:**       The trigonometric function that is equal to the ratio of the side adjacent to an acute angle (in a right triangle) to the hypotenuse.
+- **Tangent:**      The trigonometric function that is equal to the ratio of the opposite side to the adjacent side (in a right triangle) to the hypotenuse.
+- **Cotangent:**    The trigonometric function that is equal to the ratio of the adjacent side to the opposite side (in a right triangle) to the hypotenuse.
+- **Secant:**       The secant of an angle in a right triangle is the value found by dividing length of the hypotenuse by the length of the side adjacent the given angle.
+- **Cosecant:**     The secant of an angle in a right triangle is the value found by dividing length of the hypotenuse by the length of the side opposite the given angle.
+
 ## Radians and Degrees
 
 Radians and degrees are two different ways of quantifying a proportional piece of a circle. A degree is a $$ \frac{1}{360} $$ of a circle, and a radian is $$ \frac{1}{2\pi} $$ of a circle.
@@ -32,3 +45,13 @@ $$ \sin{\theta}=\frac{1}{\csc{\theta}} $$|$$ \cos{\theta}=\frac{1}{\sec{\theta}}
 $$ \csc{\theta}=\frac{1}{\sin{\theta}} $$|$$ \sec{\theta}=\frac{1}{\cos{\theta}} $$|$$ \cos{\theta}=\frac{1}{\tan{\theta}} $$|
 
 ### Quotient Identities
+Quotient identities define the relation for tangent and cotangent in terms of sine and cosine. 
+
+$$ \tan{\theta}=\frac{\sin{\theta}}{\cos{\theta}} $$|$$ \cot{\theta}=\frac{\cos{\theta}}{\sin{\theta}} $$
+
+### Pythagorean Identities
+The Pythagorean Identities consist of three identities that come from the Pythagorean Theorem, which help find where a point is on the Unit Circle.
+
+$$ \sin^{2}\theta+\cos^{2}\theta=1 $$
+$$ 1+\cot^{2}\theta=\csc^{2}\theta $$
+$$ \tan^{2}\theta+1=\sec^{2}\theta $$

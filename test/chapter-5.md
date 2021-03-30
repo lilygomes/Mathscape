@@ -64,4 +64,6 @@ $$ \tan^{2}\theta+1=\sec^{2}\theta $$
 These graphs are all very different in their own right, but there are a fair few similarities in some of them. The co- variants of each function are proportional to their original function, which is why sine and cosine look similar, tangent and cotangent look similar, etc.
 
 ## Also see:
+[Practice vocabulary for this chapter](https://quizlet.com/_9n6mt6?x=1qqt&i=1tib8r)
+
 [Using the Pythagorean Trigonometric Identity](https://www.youtube.com/watch?v=soIt2TwV6Xk)

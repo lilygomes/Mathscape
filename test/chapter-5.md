@@ -32,7 +32,10 @@ $$
 \frac{radians*180}{\pi}=degrees
 $$
 
-Video: [Converting Between Radians and Degrees](../assets/video/radians_to_degrees.mov)
+Video:
+<video width="800" controls="controls">
+  <source src="../assets/radians_to_degrees.mov">
+</video>
 
 Worked example: [Converting Degrees to Radians](https://calcworkshop.com/radian-measure/degrees-to-radians/)
 

@@ -34,7 +34,7 @@ $$
 
 Video:
 <video width="800" controls="controls">
-  <source src="../assets/video/radians_to_degrees.mov">
+  <source src="../assets/video/radians_to_degrees.m4v">
 </video>
 
 Worked example: [Converting Degrees to Radians](https://calcworkshop.com/radian-measure/degrees-to-radians/)

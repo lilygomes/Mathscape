@@ -32,6 +32,9 @@ $$
 \frac{radians*180}{\pi}=degrees
 $$
 
+Degrees can be divided into minutes and seconds. 1 minute is $$ \frac{1}{60} $$ of a degree. 1 second is $$ \frac{1}{60} $$ of a minute.
+Subsequently, one second is $$ \frac{1}{3600} $$ of a degree.
+
 Video:
 <video width="800" controls="controls">
   <source src="../assets/video/radians_to_degrees.m4v">

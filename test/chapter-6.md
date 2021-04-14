@@ -44,11 +44,16 @@ Composite trig functions are essentially functions inside of a function. We will
 
 $$
 \sin^{-1}(-x) = -\sin^{-1} x, x \in [-1, 1]
-\tan^{-1}(-x) = -\tan^{-1} x, x \in \R
-\cosec^{-1}(-x) = -\cosec^{-1} x, |x| \geq 1
+
+\tan^{-1}(-x) = -\tan^{-1} x, x \in ℝ
+
+\cos^{-1}(-x) = -\cos^{-1} x, |x| \geq 1
+
 \cos^{-1}(-x) = \pi - \cos^{-1} x, x \in [-1, 1]
+
 \sec^{-1}(-x) = \pi - \sec^{-1} x, |x| \geq 1
-\cot^{-1}(-x) = \pi - \cot^{-1} x, x \in \R
+
+\cot^{-1}(-x) = \pi - \cot^{-1} x, x \in ℝ
 $$
 
 ## Solving Trigonometric Equations

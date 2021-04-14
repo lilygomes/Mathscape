@@ -181,7 +181,7 @@ ex: Find the tangent of $$\frac{\pi}{12}$$.
 
 At first glance, it may seem that there are no ways to get a twelfth of $$\pi$$ from the unit circle. But the difference between $$\frac{\pi}{4}$$ and $$\frac{\pi}{6}$$ is actually $$\frac{\pi}{12}$$. You can find this by giving both of them a common denominator of 12 and it will pop out: $$\frac{3\pi}{12}$$ and $$\frac{2\pi}{12}$$.
 
-Knowing this, we can use the difference between $$\frac{\pi}{4}$$ and $$\frac{\pi}{6}$$ to find the tangent of $$\frac{pi}{12}$$. Substituting them in yields
+Knowing this, we can use the difference between $$\frac{\pi}{4}$$ and $$\frac{\pi}{6}$$ to find the tangent of $$\frac{\pi}{12}$$. Substituting them in yields
 
 $$ \tan\frac{\pi}{12} = \tan(\frac{\pi}{4} - \frac{\pi}{6}) = \frac{(\tan\frac{\pi}{4}) - (\tan\frac{\pi}{6})}{1 + (\tan\frac{\pi}{4})(\tan\frac{\pi}{6}) $$
 
@@ -191,7 +191,7 @@ $$ \tan\frac{\pi}{12} = \frac{1 - \frac{\sqrt{3}}{3}}{1 + 1(\frac{\sqrt{3}}{3})}
 
 This simplifies out to
 
-$$ \tan\frac{\pi}{12} = \frac{\frac{3-\sqrt{3}{3}}{\frac{3+\sqrt{3}}{3}} $$
+$$ \tan\frac{\pi}{12} = \frac{\frac{3-\sqrt{3}}{3}{\frac{3+\sqrt{3}}{3}} $$
 
 After simplifying and factoring out the fraction, the result is
 

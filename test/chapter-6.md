@@ -5,7 +5,8 @@ sort: 6
 # Chapter 6
 
 ## Domain Restrictions of Trigonometric Functions
-|$$ \sin^{-1}(x) $$|$$ [-1,1] $$|
+
+$$ \sin^{-1}(x) $$|$$ [-1,1] $$|
 
 |$$ \cos^{-1}(x) $$|$$ [-1,1] $$|
 

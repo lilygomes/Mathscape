@@ -5,7 +5,7 @@ sort: 6
 # Chapter 6
 
 ## Domain Restrictions of Trigonometric Functions
-$$ \sin^{-1}(x) $$|$$ [-1,1] $$
+$$ \sin^{-1}(x) $$|$$ [-1,1] $$|
 
 $$ \cos^{-1}(x) $$|$$ [-1,1] $$|
 
@@ -35,11 +35,14 @@ Range: $$ [-\frac{\pi}{2}, \frac{\pi}{2}] $$
 - The domain and range of the inverted function will be switched from that of the parent function.
 - Every point on the parent function has its inverse (x and y swapped) on the inverted function.
 
+### Resources
+[Video: Inverse sine, cosine, and tangent](https://www.onlinemathlearning.com/inverse-sine-cosine-tangent.html)
+
 ## Finding Composite Trigonometric Values
 
 ## Solving Trigonometric Equations
 
-The goal of solving trigonometric equations is to find the value or solution set of $$\theta$$. Trig equations can be solved similarly to solving a normal equation to find the unknown value. The steps can be considered as the following:
+The goal of solving trigonometric equations is to find the value or solution set of $$\theta$$. Trig equations can be solved similarly to solving a normal equation to find the unknown value. The steps are:
 
 1.	Isolate the unknown value
 2.	Using the unit circle, find the solution set to the equation
@@ -51,7 +54,7 @@ ex: $$ 2\sin\theta+3=2 $$
 
 $$ 2\sin\theta=-1 $$
 
-**Step 2:** Next, simpliy by dividing both sides of the equation by 2.
+**Step 2:** Next, simplify by dividing both sides of the equation by 2.
 
 $$ \sin\theta=-\frac{1}{2} $$
 

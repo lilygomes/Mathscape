@@ -17,4 +17,4 @@ ex: $$ y=\sin x $$
 
 In this example, that would be $$ [-\pi 2,\pi 2] $$.
 
-
+![Graph of example](../assets/images/chapter-6/graph-1.png)

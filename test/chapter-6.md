@@ -43,19 +43,12 @@ Range: $$ [-\frac{\pi}{2}, \frac{\pi}{2}] $$
 
 Composite trig functions are essentially functions inside of a function. We will then solve these to find the composite trig values. These are the properties:
 
-$$
-\sin^{-1}(-x) = -\sin^{-1} x, x \in [-1, 1]
-
-\tan^{-1}(-x) = -\tan^{-1} x, x \in ℝ
-
-\cos^{-1}(-x) = -\cos^{-1} x, |x| \geq 1
-
-\cos^{-1}(-x) = \pi - \cos^{-1} x, x \in [-1, 1]
-
-\sec^{-1}(-x) = \pi - \sec^{-1} x, |x| \geq 1
-
-\cot^{-1}(-x) = \pi - \cot^{-1} x, x \in ℝ
-$$
+$$ \sin^{-1}(-x) = -\sin^{-1} x, x \in [-1, 1] $$|
+$$ \tan^{-1}(-x) = -\tan^{-1} x, x \in ℝ $$|
+$$ \cos^{-1}(-x) = -\cos^{-1} x, \|x\| \geq 1 $$|
+$$ \cos^{-1}(-x) = \pi - \cos^{-1} x, x \in [-1, 1] $$|
+$$ \sec^{-1}(-x) = \pi - \sec^{-1} x, \|x\| \geq 1 $$|
+$$ \cot^{-1}(-x) = \pi - \cot^{-1} x, x \in ℝ $$|
 
 ## Solving Trigonometric Equations
 
@@ -129,7 +122,7 @@ That checks out. We've solved it!
 
 It can be easier to find the exact value of a sine, cosine, or tangent of an angle if you can rewrite the given angle in terms of two angles with known trigonometric values. Using defined angles on the unit circle, called special angles, allows you to do just that.
 
-![Unit circle with special angles](../assets/images/chapter-6/unit-circle-defined-angles.png)
+![Unit circle with special angles](../assets/images/chapter-6/unit-circle-defined-angles.jpg)
 
 The sum and difference formulas are as follows:
 
@@ -183,7 +176,7 @@ At first glance, it may seem that there are no ways to get a twelfth of $$\pi$$ 
 
 Knowing this, we can use the difference between $$\frac{\pi}{4}$$ and $$\frac{\pi}{6}$$ to find the tangent of $$\frac{\pi}{12}$$. Substituting them in yields
 
-$$ \tan\frac{\pi}{12} = \tan(\frac{\pi}{4} - \frac{\pi}{6}) = \frac{(\tan\frac{\pi}{4}) - (\tan\frac{\pi}{6})}{1 + (\tan\frac{\pi}{4})(\tan\frac{\pi}{6}) $$
+$$ \tan\frac{\pi}{12} = \tan(\frac{\pi}{4} - \frac{\pi}{6}) = \frac{\tan\frac{\pi}{4} - \tan\frac{\pi}{6}}{1 + (\tan\frac{\pi}{4})(\tan\frac{\pi}{6})}$$
 
 Substituting in the known values for $$\frac{\pi}{4}$$ and $$\frac{\pi}{6}$$ gives us
 
@@ -191,7 +184,7 @@ $$ \tan\frac{\pi}{12} = \frac{1 - \frac{\sqrt{3}}{3}}{1 + 1(\frac{\sqrt{3}}{3})}
 
 This simplifies out to
 
-$$ \tan\frac{\pi}{12} = \frac{\frac{3-\sqrt{3}}{3}{\frac{3+\sqrt{3}}{3}} $$
+$$ \tan\frac{\pi}{12} = \frac{\frac{3-\sqrt{3}}{3}}{\frac{3+\sqrt{3}}{3}} $$
 
 After simplifying and factoring out the fraction, the result is
 

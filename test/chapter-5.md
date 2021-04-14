@@ -2,6 +2,8 @@
 sort: 5
 ---
 
+# Chapter 5
+
 ## Chapter Vocabulary
 - **Right angle:**  An angle 90° in measure.
 - **Theta (θ):**    A symbol used to denote the unknown measure of an angle. It is used mostly in displaying the trigonometric ratios of sine, cosine, tangent, secant, cosecant, and cotangent.

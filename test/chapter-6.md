@@ -18,3 +18,15 @@ ex: $$ y=\sin x $$
 In this example, that would be $$ [-\pi 2,\pi 2] $$.
 
 ![Graph of example](../assets/images/chapter-6/graph-1.png)
+
+**Step 2:** Take that section of the graph and invert it.
+
+![Inverse graph of example](../assets/images/chapter-6/graph-2.png)
+
+**Step 3:** Record the domain and range of the inverted area. *Tip: the domain and range will be switched from the parent function, and all points of the parent function will have their x and y swapped.*
+
+
+Equation: $$ y=\sin^-1(x) $$
+Domain: $$ [-1,1] $$
+Range: $$ [-\frac{\pi}{2}, \frac{\pi}{2}] $$
+

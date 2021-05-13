@@ -138,8 +138,8 @@ Example:
 
 ### Resources
 
-![Solving Triangles with Trigonometry Examples](https://mathbits.com/MathBits/TISection/Trig/AreaTrigTri.htm)
+[Solving Triangles with Trigonometry Examples](https://mathbits.com/MathBits/TISection/Trig/AreaTrigTri.htm)
 
-![Using Heron's Formula to Find Area](https://www.dummies.com/education/math/trigonometry/how-to-find-the-area-of-a-triangle-for-sss-using-herons-formula/)
+[Using Heron's Formula to Find Area](https://www.dummies.com/education/math/trigonometry/how-to-find-the-area-of-a-triangle-for-sss-using-herons-formula/)
 
-![Worked Example Video: Finding Area of Oblique Triangles](https://www.youtube.com/watch?v=vlyPt6j5e_uhE)
+[Worked Example Video: Finding Area of Oblique Triangles](https://www.youtube.com/watch?v=vlyPt6j5e_uhE)

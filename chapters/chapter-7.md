@@ -76,9 +76,13 @@ When the side opposite the given angle is <u>the same</u> length as the height, 
 
 When the side opposite the given angle is <u>longer</u> than the height, the triangle has <u>at least one solution</u>.
 
+### Resources
+
+[Worked example: Solving triangles with the Law of Sines](http://www.mesacc.edu/~scotz47781/mat182/notes/Law_Sine_Cosine/Law_Sines.pdf)
+
 ## Law of Cosines
 
-A method to solve the missing parts of a triangle, with fewer conditions than the Law of Sines.
+A method to solve the missing parts of an oblique triangle, with fewer conditions than the Law of Sines. Used to find the third missing side when you have two sides and the angle between them or finding the angles when you know all three sides.
 
 $$ c^2 = a^2 + b^2 - 2ab(\cos{C}) $$
 
@@ -87,6 +91,20 @@ Conversely:
 $$ a^2 = b^2 + c^2 - 2bc(\cos{A}) $$
 
 $$ b^2 = a^2 + c^2 - 2ac(\cos{B}) $$
+
+![Law of Cosines figure 1](https://www.mathwarehouse.com/trigonometry/images/law-of-cosines/law-of-cosines-formula-and-picture2.webp)
+
+There are two cases where law of cosines can apply:
+1. SAS (Side Angle Side) - when you know two sides and the angle in between them
+2. SSS (Side Side Side) - when you know all three sides of the triangle
+
+![Law of Cosines figure 2](https://www.mathwarehouse.com/trigonometry/images/law-of-cosines/when-to-use-law-of-cosines.png)
+
+### Resources
+
+[Video: Solving for a side with the Law of Cosines](https://www.khanacademy.org/math/geometry/xff63fac4:hs-geo-non-right-triangles-trigonometry/hs-geo-law-of-cosines/v/law-of-cosines-example)
+
+[Video: Solving for an angle with the Law of Cosines](https://www.khanacademy.org/math/geometry/xff63fac4:hs-geo-non-right-triangles-trigonometry/hs-geo-law-of-cosines/v/law-of-cosines-missing-angle)
 
 ## Finding The Area of a Triangle Using Trigonometry
 
@@ -138,7 +156,7 @@ Example:
 
 ### Resources
 
-[Solving Triangles with Trigonometry Examples](https://mathbits.com/MathBits/TISection/Trig/AreaTrigTri.htm)
+[Solving Triangles with Trigonometry Calculator Examples](https://mathbits.com/MathBits/TISection/Trig/AreaTrigTri.htm)
 
 [Using Heron's Formula to Find Area](https://www.dummies.com/education/math/trigonometry/how-to-find-the-area-of-a-triangle-for-sss-using-herons-formula/)
 
